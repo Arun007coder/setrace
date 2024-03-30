@@ -1,0 +1,6 @@
+stages/*.ppm
+.vscode/*
+.cache/*
+main
+*.json
+*.ppm

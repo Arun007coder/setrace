@@ -1,0 +1,12 @@
+Stage 1: Framebuffer saving, vector and gradient
+  Completed on: 06/05/2024
+Stage 3: Sphere rendering
+  Completed on: 29/03/2024
+Stage 4: Multi object rendering, common class for objects
+  Completed on: 30/03/2024
+Stage 5: Anti aliazing implemented
+  Completed on: 30/03/2024
+Stage 6: Diffusion, True Lambertian Reflection
+  Completed on: 30/03/2024
+Stage 7: Materials
+  Completed on: 30/03/2024
